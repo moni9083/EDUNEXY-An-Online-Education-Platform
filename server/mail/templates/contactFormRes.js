@@ -74,7 +74,7 @@ exports.contactUsEmail = (
   
   <body>
       <div class="container">
-          <a href="https://studynotion-edtech-project.vercel.app"><img class="logo"
+          <a href="https://edunexy-frontend.vercel.app/"><img class="logo"
                   src="https://i.ibb.co/G72vrkF/Edunexy-2.png" alt="Edunexy Logo"></a>
           <div class="message">Contact Form Confirmation</div>
           <div class="body">
